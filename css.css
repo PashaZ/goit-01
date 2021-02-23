@@ -1,5 +1,10 @@
-.sbros{
-    color:red;
-
+/* Оголошення змінних */
+:root{
+    --primary-text-color:#757575;
+    --title-text-color:#212121;
+    --accent-color:#2196F3;
+    --title-accent-color:#ffff;
+    --footer-bg-color:#2F303A;
+    --footer-prim-text-color: rgba(255, 255, 255, 0.6);
+    --button-color:#F5F4FA;
 }
-.list {list-style: none;}
